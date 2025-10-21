@@ -29,8 +29,10 @@ The analysis revealed that schedule difficulty can account for a swing of severa
 ## View the Interactive Dashboard
 
 The full, interactive schedule analysis dashboard cannot be rendered directly on GitHub. Please view the standalone HTML file to explore the visualization tool.
+<img width="1083" height="850" alt="interactive_schedule" src="https://github.com/user-attachments/assets/2935aa10-8eb8-45ec-9417-d3e1f26b12ee" />
 
-[➡️ Click here to view the Interactive Schedule Dashboard](https://github.com/leonhsuportfolio/nba_schedule_analysis/blame/4ad14729dccdab0b42e4d950e5f7184fcfe85579/interactive_dashboard.html)
+[➡️ Click here to access the Interactive Schedule Dashboard HTML file](https://github.com/leonhsuportfolio/nba_schedule_analysis/blame/4ad14729dccdab0b42e4d950e5f7184fcfe85579/interactive_dashboard.html)
+
 
 ## How to Run This Project
 
