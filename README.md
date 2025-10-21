@@ -1,6 +1,6 @@
 # NBA Schedule Analysis: Quantifying the Impact of Schedule Difficulty on Team Wins
 
-## Project Overview
+## Overview
 
 This project analyzes over a decade of NBA game data (2014-2024) to quantify the isolated impact of schedule difficulty on a team's regular-season performance. Using an Ordinary Least Squares (OLS) regression model with team and season fixed effects, this analysis determines how many wins a team gained or lost purely due to its schedule's structure—independent of the team's inherent quality.
 
@@ -30,7 +30,7 @@ The analysis revealed that schedule difficulty can account for a swing of severa
 
 The full, interactive schedule analysis dashboard cannot be rendered directly on GitHub. Please view the standalone HTML file to explore the visualization tool.
 
-[➡️ Click here to view the Interactive Schedule Dashboard](https://www.google.com/search?q=interactive_dashboard.html)
+[➡️ Click here to view the Interactive Schedule Dashboard](https://github.com/leonhsuportfolio/nba_schedule_analysis/blame/4ad14729dccdab0b42e4d950e5f7184fcfe85579/interactive_dashboard.html)
 
 ## How to Run This Project
 
